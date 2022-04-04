@@ -6,5 +6,6 @@ With parameterizable:
 - size of the tournament
 - genes to cross
 - crossover probability
-- mutation probability.
+- mutation probability
+
 And sample data files.
